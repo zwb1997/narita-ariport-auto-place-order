@@ -1,0 +1,3 @@
+const SKEY =
+  "";
+export { SKEY };
